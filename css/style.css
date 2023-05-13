@@ -6070,3 +6070,15 @@ img {
   overflow: hidden;
   transition: all 0.3s ease;
 }
+
+.logo{
+  width: 150px;
+}
+
+@media (max-width:987px) {
+  /* line 50, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
+  .logo{
+    width: 50px;
+  }
+  
+}
